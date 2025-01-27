@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    line-height: 1.5;
+    padding: 10px;
+    background-color: ghostwhites;
+}
+p{
+
+    background-color: rgba(231, 234, 238, 0.137);
+    border: 3px solid rgba(248, 243, 243, 0.356);
+
+} 
+h1{
+    background-color:rgba(243, 245, 247, 0.199);
+}
+
+ul li{
+    list-style-type: "✔ ";
+    
+
+}
+
+ul{
+    padding: 0 0 0 20px;
+}
+img{
+    display: block;
+}
+
+.footer{
+    position: relative;
+    display: block;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    /* margin: 30px 0 0 0; */
+    /* padding: 10px 0; */
+    background-color: rgba(0, 0, 0, 0.993);
+    color: azure;
+    text-align: center;
+}
+button{
+    background-color: rgba(0, 0, 0, 0.918);
+    color: rgb(244, 245, 245);
+}
+
+
+
+
